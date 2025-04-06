@@ -1,0 +1,22 @@
+/* Reset some default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set default font and background */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  /* Add basic container class */
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
