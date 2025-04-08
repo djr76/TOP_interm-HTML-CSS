@@ -25,7 +25,10 @@
     float: left;
     width: 50%;
     height: 100%;
-    background-image: url( "https://destinationuganda.com/wp-content/uploads/2021/04/uganda-bunyonyi-destinations-1200x500.jpg");
+    background-image: url( "https://upload.wikimedia.org/wikipedia/commons/3/36/Murchison_Falls%2C_Uganda_%2823475021234%29.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   .right {
     float: right;
