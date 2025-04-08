@@ -20,7 +20,7 @@
     width: 100%;
     height: 100vh; /* or a specific height */
     overflow: auto; /* optional, for scrollable content */
-    ackground-image: url("https://destinationuganda.com/wp-content/uploads/2021/04/uganda-bunyonyi-destinations-1200x500.jpg");
+    background-image: url("https://destinationuganda.com/wp-content/uploads/2021/04/uganda-bunyonyi-destinations-1200x500.jpg");
   }
   .left {
     float: left;
@@ -31,5 +31,4 @@
     float: right;
     width: 50%;
     height: 100%;
-    background-image: url("https://destinationuganda.com/wp-content/uploads/2021/04/uganda-bunyonyi-destinations-1200x500.jpg");
   }
